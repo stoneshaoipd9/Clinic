@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+.nav, .navbar-nav, .navbar-right li{
+	font-size: 1em;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	}
